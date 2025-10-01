@@ -1,0 +1,30 @@
+{
+  "name": "veebiprogrammeerimine",
+  "version": "1.0.0",
+  "description": "veebiprogrammeerimine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katipold/AA_web.git"
+  },
+  "keywords": [
+    "Tallinna",
+    "Ülikool",
+    "DTI",
+    "veebiprogrammeerimine",
+    "node",
+    ".js"
+  ],
+  "author": "Kati Põld",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katipold/AA_web/issues"
+  },
+  "homepage": "https://github.com/katipold/AA_web#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
